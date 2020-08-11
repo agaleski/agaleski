@@ -29,7 +29,7 @@ Technologies:
 ![Docker][docker]
 
 
-## Open Source Prjoects
+## OpenSource Projects
 
 ### WooCommerce Memcached Full Page Cache
 https://github.com/hypeventures/woocommerce-memcached-full-page-cache
