@@ -10,6 +10,7 @@ Coding:
 ![PHP][php]
 ![JavaScript][js]
 ![HTML][html]
+![CSS][css]
 ![Python][py]
 ![MySQL][mysql]
 
@@ -44,6 +45,7 @@ https://github.com/hypeventures/woocommerce-memcached-full-page-cache
 [php]: https://img.icons8.com/ios-filled/50/000000/php.png "PHP"
 [js]: https://img.icons8.com/ios-filled/50/000000/js.png "JavaScript"
 [html]: https://img.icons8.com/ios-filled/50/000000/html.png "HTML"
+[css]: https://img.icons8.com/ios-filled/50/000000/css.png "CSS"
 [py]: https://img.icons8.com/ios-filled/50/000000/py.png "Python"
 [mysql]: https://img.icons8.com/ios-filled/50/000000/mysql.png "MySQL"
 [wordpress]: https://img.icons8.com/windows/64/000000/wordpress.png "Wordpress"
