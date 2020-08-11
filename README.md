@@ -2,7 +2,6 @@
 # Achim Galeski
 Head of Engineering @[Invincible Brands](https://www.invinciblebrands.com)
 
----
 
 ## Stack
 
@@ -29,7 +28,6 @@ Technologies:
 ![AmazonWebServices][aws]
 ![Docker][docker]
 
----
 
 ## Open Source Prjoects
 
