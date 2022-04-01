@@ -1,6 +1,6 @@
 ![Developer][dev]
 # Achim Galeski
-Head of Engineering @[Invincible Brands](https://www.invinciblebrands.com)
+Director Engineering @[Invincible Brands](https://www.invinciblebrands.com)
 
 
 ## Stack
@@ -41,7 +41,7 @@ https://github.com/hypeventures/woocommerce-memcached-full-page-cache
 
 
 <!-- FILE REFERENCES -->
-[dev]: https://img.icons8.com/color/96/000000/developer.png "Developer"
+[dev]: https://img.icons8.com/color/96/00ff00/developer.png "Developer"
 [php]: https://img.icons8.com/ios-filled/50/000000/php.png "PHP"
 [js]: https://img.icons8.com/ios-filled/50/000000/js.png "JavaScript"
 [html]: https://img.icons8.com/ios-filled/50/000000/html.png "HTML"
