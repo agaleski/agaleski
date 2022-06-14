@@ -29,12 +29,6 @@ Technologies:
 ![AmazonWebServices][aws]
 ![Docker][docker]
 
-
-## OpenSource Projects
-
-### WooCommerce Memcached Full Page Cache
-https://github.com/hypeventures/woocommerce-memcached-full-page-cache
-
 ---
 
 > Visible icons are provided by [Icons8](https://icons8.com/).
